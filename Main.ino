@@ -1,5 +1,5 @@
 #include <CapacitiveSensor.h>
-
+#define speaker 11
 //Send Pin & Receive Pin.
 CapacitiveSensor   cs_2_3 = CapacitiveSensor(2,3);      
 CapacitiveSensor   cs_2_4 = CapacitiveSensor(2,4);        
